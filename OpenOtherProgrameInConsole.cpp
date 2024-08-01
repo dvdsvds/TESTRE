@@ -3,8 +3,6 @@
 #include <windows.h>
 #include <string>
 
-using namespace std;
-
 int main() {
     std::wcout << L"Current console program running..." << std::endl;
   
